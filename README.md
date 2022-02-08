@@ -50,9 +50,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Usage
 ---
-#### Begin my installing the json packages by typing:
+#### Begin by installing the json packages by typing:
     npm i 
-#### into your integrated terminal, then type 
+#### into your integrated terminal, then type:
     node server.js 
 #### to launch the application.
 
