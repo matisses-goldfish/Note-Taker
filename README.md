@@ -2,7 +2,7 @@
 # Note Taker 
 [![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen)](https://opensource.org/licenses/MIT)
 #### **Name:** Honore Nelson
-#### **Deployed Link:** https://note-taker-bc.herokuapp.com/
+#### **Deployed Link:** https://notetakerhn.herokuapp.com/
 #### **Github Repo:** https://github.com/matisses-goldfish/Note-Taker
 ---
     
@@ -61,6 +61,13 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 #### into your integrated terminal, then type:
     node server.js 
 #### to launch the application.
+
+## Page Demo:
+---
+![notes app](ss3.png)
+![notes app](ss1.png)
+![notes app](ss2.png)
+
 
     
 ## Contribution Guidelines
